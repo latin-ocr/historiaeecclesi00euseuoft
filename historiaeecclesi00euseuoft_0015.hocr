@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./historiaeecclesi00euseuoft_0015.png"; bbox 0 0 2052 3422; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 763 926 1256 982">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 763 926 1256 982">
+     <span class='ocr_line' id='line_1_1' title="bbox 763 926 1256 982; baseline -0.02 1"><span class='ocrx_word' id='word_1_1' title='bbox 763 926 1256 982; x_wconf 90' lang='lat' dir='ltr'><strong>EUSEBII</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 339 1189 1685 1289">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 339 1189 1685 1289">
+     <span class='ocr_line' id='line_1_2' title="bbox 339 1189 1685 1289; baseline -0.014 0"><span class='ocrx_word' id='word_1_2' title='bbox 339 1189 1685 1289; x_wconf 85' lang='lat' dir='ltr'>HISTORIAE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 613 1483 1419 1546">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 613 1483 1419 1546">
+     <span class='ocr_line' id='line_1_3' title="bbox 613 1483 1419 1546; baseline -0.014 0"><span class='ocrx_word' id='word_1_3' title='bbox 613 1483 1419 1546; x_wconf 67' lang='lat' dir='ltr'>ECCLESIASTICAE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 862 1800 1176 1843">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 862 1800 1176 1843">
+     <span class='ocr_line' id='line_1_4' title="bbox 862 1800 1176 1843; baseline -0.01 0"><span class='ocrx_word' id='word_1_4' title='bbox 862 1801 1069 1843; x_wconf 85' lang='lat' dir='ltr'>LIBRI</span> <span class='ocrx_word' id='word_1_5' title='bbox 1131 1800 1176 1840; x_wconf 87' lang='lat' dir='ltr'>X.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
